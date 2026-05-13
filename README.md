@@ -15,5 +15,4 @@
 
 *   **البريد الإلكتروني:** [abumuslimmakki@gmail.com](mailto:abumuslimmakki@gmail.com)
 *   **واتساب فيصل المكي:** [اضغط هنا للتواصل](https://wa.me/966552113236)
-![Visitor Count](https://profile-counter.glitch.me/FaisalMakki-cpu/count.svg)
-
+<img src="https://komarev.com/ghpvc/?username=FaisalMakki-cpu&color=green&style=flat-square&label=VISITORS" alt="Visitor Count" />
